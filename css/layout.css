@@ -9,6 +9,16 @@ body {
     height: 100vh;
 }
 
+header, footer{
+    height: 20vh;
+}
+
+main{
+    height: 60vh;
+}
+
+
+
 header,main, footer{
     display:grid;
     grid-template-columns: 1fr 1000px 20px;
