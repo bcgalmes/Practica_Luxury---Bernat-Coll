@@ -12,11 +12,11 @@ header,main{
     gap: 20px;
 }
 
-header .logo {
+header .logo, section.texto {
     grid-column: 2/3;
 }
 
-header .menu {
+header .menu, section.redes {
     grid-column: 3/4;
 }
 
